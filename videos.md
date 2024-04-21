@@ -1,24 +1,25 @@
 ---
 layout: resources
-title: Bitcoin Videos
+title: Videos de Bitcoin
 image: /assets/images/bitcoin-resources-twitter-cover.png
-description: Curated Bitcoin videos.
+description: Selección de videos de Bitcoin.
 ---
 
-Visit [BitcoinTV.com](https://bitcointv.com/) for a bitcoin-focused video platform.
+Visita [BitcoinTV.com](https://bitcointv.com/), una plataforma de video enfocada en Bitcoin.
 
 ---
 
 <center>
-  <p><small><a href="#toc">↓ Table of Contents ↓</a></small></p>
+  <p><small><a href="#toc">↓ Tabla de contenidos ↓</a></small></p>
 </center>
 
 ---
 
-### Selected Videos
+### Videos seleccionados
 
-The following videos are well worth watching, whether you are a newcomer or
-already more advanced. These individual videos cover a wide range of topics.
+Los videos listados a continuación son recomendados, tanto si eres un novato
+o ya tengas más experiencia. Estos videos individuales cubren un amplio 
+abanico de temas.
 
 <div class="flex-vid">
   <iframe src="https://www.youtube-nocookie.com/embed/xLYYh4aPXAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -60,7 +61,7 @@ already more advanced. These individual videos cover a wide range of topics.
   <iframe src="https://www.youtube-nocookie.com/embed/7vl_ziH6OJo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Selected YouTube Channels
+### Canales de YouTube seleccionados
 
 - [Swan Bitcoin](https://www.youtube.com/channel/UCl4takhOQtiyprismCPsa2Q)
 - [Ioni Appelberg](https://www.youtube.com/user/waem)
@@ -83,14 +84,14 @@ already more advanced. These individual videos cover a wide range of topics.
 - [Bitcoin Kindergarten](https://www.youtube.com/c/BitcoinKindergarten)
 - [Bitcoin Optech](https://www.youtube.com/channel/UCUyjLD_zRr4F8nKaCtZHXUg)
 
-### Selected Playlists
+### Playlist seleccionadas
 
-- [Bitcoin Explained](https://www.youtube.com/playlist?list=PL_xlkwLDH1F-J-THOZfn9SzSgBs2uGYIn) by The Investor's Podcast Network
+- [Bitcoin Explained](https://www.youtube.com/playlist?list=PL_xlkwLDH1F-J-THOZfn9SzSgBs2uGYIn) de The Investor's Podcast Network
 - [The Saylor Series](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bQFY6wIbQfnrnIlqMcSHd6X)
 - [The Vervaeke Series](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bTK1nFYSZhRGq18SGkW8kgG)
 - [The Twilight of Gold](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bR3eCyc-lBmv8u6s88csYEW)
 
-### Podcasts with YouTube Channels
+### Podcasts con canales de YouTube
 
 {% assign yt_pods = '' | split: '' %}
 {% for pod in site.podcasts %}
@@ -100,7 +101,7 @@ already more advanced. These individual videos cover a wide range of topics.
 - [{{ pod.name }}]({{ pod.youtube }})
 {% endfor %}
 
-See [podcasts](/podcasts) for a list of all podcasts.
+Entra en [podcasts](/podcasts) para ver la lista completa con todos los podcasts.
 
 ### Bonus: On the Art of Hodling
 
@@ -110,7 +111,7 @@ See [podcasts](/podcasts) for a list of all podcasts.
 
 ---
 
-[« back to overview][index]
+[« Volver al índice][index]
 
 [index]: {{ '#books' | absolute_url }}
 

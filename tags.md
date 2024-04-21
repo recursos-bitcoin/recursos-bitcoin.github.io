@@ -1,17 +1,18 @@
 ---
 layout: resources
-title: Tags
+title: Etiquetas
 image: /assets/images/bitcoin-resources-twitter-cover.png
-description: Bitcoin Podcasts Categorized by Tags
+description: Podcasts de Bitcoin categorizadas por etiquetas
 ---
 
-Bitcoin seems to spawn an endless list of podcasts. Categorizing them by tags
-helps to break up the long (and growing) list.
+
+Bitcoin parece generar una lista interminable de podcast. Categorizarlos por
+etiquetas ayuda a dividir la larga (y creciente) lista.
 
 ---
 
 <center>
-  <p><small><a href="#toc">↓ Table of Contents ↓</a></small></p>
+  <p><small><a href="#toc">↓ Tabla de contenidos ↓</a></small></p>
 </center>
 
 {% include tags.html %}

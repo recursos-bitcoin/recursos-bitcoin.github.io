@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Thank you 🧡
+title: Gracias 🧡
 image: /assets/images/bitcoin-resources-twitter-cover.png
-description: Thank you for supporting Bitcoin Resources!
+description: Gracias por apoyar Recursos Bitcoin!
 ---
 
-Thank you for supporting Bitcoin Resources!
-[Let the world know][tweet] that you did something good.
+Gracias por apoyar Recursos Bitcoin!
+[Haz saber al mundo][tweet] que hiciste algo bueno.
 
-We truly appreciate your support. If you have suggestions for [books],
-[articles], [podcasts], or [videos], please let us know.
+Apreciamos profundamente tu apoyo. Si tienes sugerencias de [books],
+[articles], [podcasts], o [videos], por favor, háznoslo saber.
 
 Back to the [main site][main].
 
