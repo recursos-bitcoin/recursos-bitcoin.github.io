@@ -6,8 +6,7 @@ description: Libros, articulos, podcasts y otros recursos selectos de Bitcoin.
 redirect_from: resources
 ---
 
-**Resumen para vagos:** Lee [El patrón Bitcoin][bitcoin-standard] y [The Bullish
-Case for Bitcoin][bullish-case-book].
+**Resumen para vagos:** Lee [El patrón Bitcoin][bitcoin-standard] y [La Tesis Alcista de Bitcoin][bullish-case-book].
 
 ---
 
@@ -32,7 +31,7 @@ Hazlitt.
 
 If you prefer a shorter introduction, read and listen to the following:
 
-- [The Bullish Case for Bitcoin][bullish-case-book] by Vijay Boyapati
+- [La Tesis Alcista de Bitcoin][bullish-case-book] de Vijay Boyapati
 - [The Stories We Tell About Money][aantonop-stories] by Andreas Antonopoulos
 
 Further, everyone who is serious about trying to understand Bitcoin should start
@@ -106,8 +105,7 @@ at least some of them. For a more comprehensive list of resources please
 refer to the literature listed at the [Satoshi Nakamoto Institute][sni] and the
 selection of articles read by [Bitcoin Audible][guy-episodes].
 
-One of the best articles to read if you are new to Bitcoin is [The Bullish Case
-for Bitcoin][bullish-case], which outlines why there are very good reasons to be
+One of the best articles to read if you are new to Bitcoin is [La Tesis Alcista de Bitcoin][bullish-case], which outlines why there are very good reasons to be
 optimistic about Bitcoin's future.
 
 {% include articles_starred.html %}

@@ -37,8 +37,7 @@ money](https://21lessons.com/14/) the hard way.
 
 -   [Shelling Out: The Origins of
     Money](https://nakamotoinstitute.org/shelling-out/)
--   [The Bullish Case for
-    Bitcoin](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1)
+-   [La Tesis Alcista de Bitcoin](https://vijayboyapati.medium.com/la-tesis-alcista-de-bitcoin-parte-1-de-4-7b2e7ac5f07)
 
 ### ...but isn't Bitcoin too slow?
 

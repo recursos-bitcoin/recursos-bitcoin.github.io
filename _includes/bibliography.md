@@ -98,7 +98,7 @@
 [aantonop-stories]: https://www.youtube.com/watch?v=ONvg9SbauMg
 
 <!-- Articles -->
-[bullish-case]: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
+[bullish-case]: https://medium.com/@vijayboyapati/la-tesis-alcista-de-bitcoin-parte-1-de-4-7b2e7ac5f07
 [bullish-case-audio]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuickRead_021---The-Bullish-case-For-Bitcoin-e2ndu7
 [dao-merkle]: http://merkle.com/papers/DAOdemocracyDraft.pdf
 
