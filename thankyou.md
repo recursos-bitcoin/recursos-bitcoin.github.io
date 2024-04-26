@@ -19,4 +19,4 @@ Back to the [main site][main].
 [articles]: {{ 'articles' | absolute_url }}
 [podcasts]: {{ 'podcasts' | absolute_url }}
 [videos]: {{ 'videos' | absolute_url }}
-[tweet]: https://twitter.com/intent/tweet?url=https%3A%2F%2Fbitcoin-resources.com%2Fdonate%2F&text=I%20just%20donated%20to%20@BtcResources%21%20
+[tweet]: https://twitter.com/intent/tweet?url=https%3A%2F%2Frecursos-bitcoin.com%2Fdonate%2F&text=I%20just%20donated%20to%20@BtcResources%21%20

@@ -19,11 +19,11 @@ time is now.
 ### Am I too late?
 
 No. Everyone thinks that they \"[missed the
-bus](https://bitcoin-resources.com/assets/images/missed-the-bus.jpg).\"
+bus](https://recursos-bitcoin.com/assets/images/missed-the-bus.jpg).\"
 
 It is never too late to adopt electricity. It is never too late to adopt
 the internet. It is never too late to adopt the [Bitcoin
-Standard](https://bitcoin-resources.com/books/the-bitcoin-standard).
+Standard](https://recursos-bitcoin.com/books/the-bitcoin-standard).
 
 -   [Am I Too Late for
     Bitcoin?](https://www.swanbitcoin.com/am-i-too-late-for-bitcoin/)

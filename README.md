@@ -1,6 +1,6 @@
 # Bitcoin Resources
 
-A curated collection of articles, books, podcasts, podcast episodes, and other resources which offer a more complete understanding of Bitcoin. Available for everyone at [bitcoin-resources.com](https://bitcoin-resources.com).
+A curated collection of articles, books, podcasts, podcast episodes, and other resources which offer a more complete understanding of Bitcoin. Available for everyone at [recursos-bitcoin.com](https://recursos-bitcoin.com).
 
 ### Contribute
 
@@ -27,7 +27,7 @@ You might have to install `gulp` globally, which you can do with `npm install --
 
 ### Support
 
-You can follow [the project](https://twitter.com/BtcResources) on Twitter, share the project, [contribute](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/CONTRIBUTING.md), [donate](https://bitcoin-resources.com/donate/), or [support me](https://dergigi.com/support/) directly.
+You can follow [the project](https://twitter.com/BtcResources) on Twitter, share the project, [contribute](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/CONTRIBUTING.md), [donate](https://recursos-bitcoin.com/donate/), or [support me](https://dergigi.com/support/) directly.
 
 
 ---

@@ -132,7 +132,7 @@
 [bitcoin-whitepaper]: https://bitcoin.org/bitcoin.pdf
 
 <!-- GitHub -->
-[issues]: https://github.com/bitcoin-resources/bitcoin-resources.github.io/issues
+[issues]: https://github.com/recursos-bitcoin/recursos-bitcoin.github.io/issues
 
 <!-- Internal -->
 [dergigi]: https://dergigi.com

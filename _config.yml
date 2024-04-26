@@ -8,7 +8,7 @@ name: Gigi
 title: Bitcoin Resources
 description: >
   Books, Articles, Podcasts, and other curated Bitcoin resources.
-url: https://bitcoin-resources.com
+url: https://recursos-bitcoin.com
 code: BR
 twitter_username: dergigi
 default_img: /assets/images/avatar.png
@@ -16,7 +16,7 @@ social:
   - name: twitter
     url: https://twitter.com/BtcResources
   - name: github
-    url: https://github.com/bitcoin-resources/bitcoin-resources.github.io
+    url: https://github.com/recursos-bitcoin/recursos-bitcoin.github.io
   - name: bitcoin
     url: https://dergigi.com/support
 
