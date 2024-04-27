@@ -1,5 +1,5 @@
 {% assign book = include.book %}
-{% capture slugTitle %}{{ book.title | slugify }}{% endcapture %}
+{% capture slugTitle %}{% if book.original_title %}{{ book.original_title | slugify }}{% else %}{{ book.title | slugify }}{% endif %}{% endcapture %}
 {% capture folderPath %}/assets/images/bitcoin/books{% endcapture %}
 
 <li>

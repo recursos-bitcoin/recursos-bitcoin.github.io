@@ -1,6 +1,7 @@
 ---
 layout: page-books
 title: La Tesis Alcista de Bitcoin
+original_title: The Bullish Case for Bitcoin
 subtitle: 
 atf: 1
 essential: true

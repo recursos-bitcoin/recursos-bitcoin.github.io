@@ -10,15 +10,14 @@ redirect_from: resources
 
 ---
 
-## Essentials
+## Esenciales
 
-To get a grasp on Bitcoin you will have to read a book or two.  If you only want
-to read one book, most people will recommend Saifedean's **[The Bitcoin
-Standard][the-bitcoin-standard]**, and for good reason. Bitcoin is money, so
-understanding [The Ethics of Money Production][the-ethics-of-money-production]
-is paramount to understanding what Bitcoin is about. If you need a crash-course
-in economics, read [Economics in One Lesson][economics-in-one-lesson] by Henry
-Hazlitt.
+Para entender Bitcoin, tendrás que leer un libro o dos. Si solo quieres 
+leer un libro, la mayoría de la gente recomendará **[El Patrón Bitcoin][the-bitcoin-standard]** 
+de Saifedean Ammous, y con razón. Bitcoin es dinero, por lo que entender 
+[La Ética de la Producción Monetaria][the-ethics-of-money-production] es fundamental para comprender
+de qué trata Bitcoin. Si necesitas un curso intensivo en economía, lee [La Economía en una Lección][economics-in-one-lesson] 
+de Henry Hazlitt.
 
 [economics-in-one-lesson]: {{ '/books/economics-in-one-lesson' | absolute_url }}
 [the-bitcoin-standard]: {{ '/books/the-bitcoin-standard' | absolute_url }}

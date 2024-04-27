@@ -1,6 +1,7 @@
 ---
 layout: page-books
-title: The Bitcoin Standard
+title: El Patrón Bitcoin
+original_title: The Bitcoin Standard
 subtitle: The Decentralized Alternative to Central Banking
 atf: 1
 essential: true
