@@ -1,22 +1,23 @@
 ---
 layout: page-books
-title: Economics In One Lesson
+title: La Economía En Una Lección
+original_title: Economics In One Lesson
 subtitle: 
 atf: true
 essential: true
 category: economics
 authors: ['Henry Hazlitt']
 authors_twitter: 
-resource_url: https://mises.org/library/economics-one-lesson
-amazon_url: https://amzn.to/3aK2AD0
+resource_url: https://www.unioneditorial.net/libro/la-economia-en-una-leccion-8-a-ed/
+amazon_url: https://amzn.to/3JFATyP
 wikipedia_url: 
-free_url: http://www.hacer.org/pdf/Hazlitt00.pdf
+free_url: https://www.hacer.org/pdf/Hazlitt01.pdf
 summary_url: 
 rating_order: 7
 lesson: ['9']
 quote: ""
-audio_url: https://amzn.to/33XKqf3
-free_audio_url: 
+audio_url: https://amzn.to/4a0rVXJ
+free_audio_url: https://www.youtube.com/watch?v=tAo-T2iU1u4
 goodreads_url: 
-description: "With over a million copies sold, Economics in One Lesson is an essential guide to the basics of economic theory. A fundamental influence on modern libertarianism, Hazlitt defends capitalism and the free market from economic myths that persist to this day."
+description: "Con más de un millón de copias vendidas, "La Economía en una Lección" es una guía esencial sobre los conceptos básicos de la teoría económica. Una influencia fundamental en el libertarismo moderno, Hazlitt defiende el capitalismo y el libre mercado contra los mitos económicos que persisten hasta el día de hoy."
 ---
