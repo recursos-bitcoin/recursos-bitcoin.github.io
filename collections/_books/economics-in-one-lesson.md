@@ -18,6 +18,6 @@ lesson: ['9']
 quote: ""
 audio_url: https://amzn.to/4a0rVXJ
 free_audio_url: https://www.youtube.com/watch?v=tAo-T2iU1u4
-goodreads_url: 
+goodreads_url: https://www.goodreads.com/book/show/19314754-la-econom-a-en-una-lecci-n?from_search=true&from_srp=true&qid=YFoEb8iS4m&rank=1
 description: "Con más de un millón de copias vendidas, "La Economía en una Lección" es una guía esencial sobre los conceptos básicos de la teoría económica. Una influencia fundamental en el libertarismo moderno, Hazlitt defiende el capitalismo y el libre mercado contra los mitos económicos que persisten hasta el día de hoy."
 ---

@@ -15,7 +15,7 @@ redirect_from: resources
 Para entender Bitcoin, tendrás que leer un libro o dos. Si solo quieres 
 leer un libro, la mayoría de la gente recomendará **[El Patrón Bitcoin][the-bitcoin-standard]** 
 de Saifedean Ammous, y con razón. Bitcoin es dinero, por lo que entender 
-[La Ética de la Producción Monetaria][the-ethics-of-money-production] es fundamental para comprender
+[La Ética De La Producción del Dinero][the-ethics-of-money-production] es fundamental para comprender
 de qué trata Bitcoin. Si necesitas un curso intensivo en economía, lee [La Economía En Una Lección][economics-in-one-lesson] 
 de Henry Hazlitt.
 
