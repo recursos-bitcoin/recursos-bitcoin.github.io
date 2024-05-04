@@ -4,7 +4,7 @@ layout: page
 <div class="book_flex">
   <!-- Image -->
   <div class="cover">
-    {% capture slugTitle %}{{ page.title | slugify }}{% endcapture %}
+    {% capture slugTitle %}{% if page.original_title %}{{ page.original_title | slugify }}{% else %}{{ page.title | slugify }}{% endif %}{% endcapture %}
     {% capture folderPath %}/assets/images/bitcoin/books{% endcapture %}
     <picture>
       <source srcset="{{ folderPath }}/jpg/{{ slugTitle }}.jpg" type="image/jpeg"/>
