@@ -9,7 +9,7 @@ category: morality
 authors: ['Jörg Guido Hülsmann']
 authors_twitter: 
 resource_url: https://www.unioneditorial.net/libro/la-etica-de-la-produccion-del-dinero/
-amazon_url: https://amzn.to/4bkgzip
+amazon_url: https://amzn.to/4g7LfFx
 wikipedia_url: 
 free_url: https://mises.org/sites/default/files/The%20Ethics%20of%20Money%20Production_2.pdf
 summary_url: 
