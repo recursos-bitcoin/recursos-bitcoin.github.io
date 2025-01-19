@@ -9,7 +9,7 @@ category: economics
 authors: ['Henry Hazlitt']
 authors_twitter: 
 resource_url: https://www.unioneditorial.net/libro/la-economia-en-una-leccion-8-a-ed/
-amazon_url: https://amzn.to/3JFATyP
+amazon_url: https://amzn.to/4h1ZZa2
 wikipedia_url: 
 free_url: https://www.hacer.org/pdf/Hazlitt01.pdf
 summary_url: 
