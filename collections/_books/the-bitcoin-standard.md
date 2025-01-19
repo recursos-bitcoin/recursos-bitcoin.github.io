@@ -9,7 +9,7 @@ category: non-technical
 authors: ['Saifedean Ammous']
 authors_twitter: ['https://twitter.com/saifedean']
 resource_url: https://saifedean.com/thebitcoinstandard/
-amazon_url: https://amzn.to/2TLl5RP
+amazon_url: https://amzn.to/42mwKua
 wikipedia_url: 
 free_url: 
 summary_url: https://twitter.com/ydemombynes/status/985560599248756736
