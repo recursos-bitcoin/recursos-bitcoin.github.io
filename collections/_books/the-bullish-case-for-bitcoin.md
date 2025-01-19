@@ -9,7 +9,7 @@ category: non-technical
 authors: ['Vijay Boyapati']
 authors_twitter: ['https://twitter.com/real_vijay']
 resource_url: https://www.kickstarter.com/projects/boyapati/the-bullish-case-for-bitcoin-book-launch
-amazon_url: https://amzn.to/44o46rG
+amazon_url: https://amzn.to/4fZPuTz
 wikipedia_url: 
 free_url: https://medium.com/@vijayboyapati/la-tesis-alcista-de-bitcoin-parte-1-de-4-7b2e7ac5f07
 summary_url: https://twitter.com/petermiyoung/status/1336612103436824576?s=20
