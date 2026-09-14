@@ -11,7 +11,7 @@ Gracias por apoyar Recursos Bitcoin!
 Apreciamos profundamente tu apoyo. Si tienes sugerencias de [books],
 [articles], [podcasts], o [videos], por favor, háznoslo saber.
 
-Back to the [main site][main].
+Volver al [sitio principal][main].
 
 
 [main]: {{ '' | absolute_url }}

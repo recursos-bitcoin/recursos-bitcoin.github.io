@@ -1,40 +1,40 @@
 ---
 layout: resources
-title: The Remnant Archives
+title: Los Archivos del Remanente
 image: /assets/images/isaiah.jpg
-description: Links for the Bitcoin Remnant
+description: Enlaces para el Remanente de Bitcoin
 ---
 
-# The Remnant Archives
+# Los Archivos del Remanente
 
-Welcome, remnant. There are two options why you ended up here. You are either
-insanely curious, or someone sent you.
+Bienvenido, remanente. Hay dos razones por las que terminaste aquí. O eres
+increíblemente curioso, o alguien te envió.
 
-In any case, welcome. Below are some links to resources that might be helpful
-for you. They were definitely helpful for me.  It took me a while to understand
-that we don't necessarily need the masses. But we do need you, the remnant.
+En cualquier caso, bienvenido. A continuación hay algunos enlaces a recursos que podrían serte
+útiles. Definitivamente me fueron útiles a mí. Me tomó un tiempo entender
+que no necesariamente necesitamos a las masas. Pero sí te necesitamos a ti, el remanente.
 
-## Required Reading
+## Lectura obligatoria
 
-* [Isaiah's Job](https://mises.org/library/isaiahs-job) by Albert Jay Nock
+* [Isaiah's Job](https://mises.org/library/isaiahs-job) de Albert Jay Nock
 
-## Podcast Episodes
+## Episodios de podcast
 
-* Bitcoin Remnant: [one](https://youtu.be/8t_sQ4rTho), [two](https://pod.link/1482223406/episode/f8e7732b41e80b426d084b7fed156c62), [three](https://pod.link/1482223406/episode/e9be8c8957e37f626f7c19591d842fe2)
-* [Hass McCook](https://pca.st/podcast/2c390830-ee9d-0138-e808-0acc26574db2) preaching to the True Believer
+* Bitcoin Remnant: [uno](https://youtu.be/8t_sQ4rTho), [dos](https://pod.link/1482223406/episode/f8e7732b41e80b426d084b7fed156c62), [tres](https://pod.link/1482223406/episode/e9be8c8957e37f626f7c19591d842fe2)
+* [Hass McCook](https://pca.st/podcast/2c390830-ee9d-0138-e808-0acc26574db2) predicando al Verdadero Creyente
 * [Erik Cason: Bitcoin is Messianic](https://pod.link/1476958861/episode/894a6953bb8badee37fb9049c1d5e06b)
 
-## Talks
+## Charlas
 
-* [Citadel Theory: What is coming and how to survive it](https://untappedgrowth.com/citadel-theory-what-is-coming-and-how-to-survive-it/) by Joel from Untapped Growth
+* [Citadel Theory: What is coming and how to survive it](https://untappedgrowth.com/citadel-theory-what-is-coming-and-how-to-survive-it/) de Joel de Untapped Growth
 
-## Art
+## Arte
 
-* [In Shadow: A Modern Odyssey](https://youtu.be/j800SVeiS5I) by Lubomir Arsov
+* [In Shadow: A Modern Odyssey](https://youtu.be/j800SVeiS5I) de Lubomir Arsov
 
-## People to Follow
+## Personas a seguir
 
-I will not make a list of people. Lists are dangerous. You will find others if you know where to look.
+No haré una lista de personas. Las listas son peligrosas. Encontrarás a otros si sabes dónde buscar.
 
 ---
 

@@ -1,42 +1,42 @@
 ---
 layout: resources
-title: Forks (The Good Kind)
-subtitle: Other Languages
+title: Bifurcaciones (De las buenas)
+subtitle: Otros idiomas
 image: /assets/images/bitcoin-resources-twitter-cover.png
-description: Bitcoin Resources in other languages
+description: Recursos Bitcoin en otros idiomas
 ---
 
-This project is available in the following languages:
+Este proyecto está disponible en los siguientes idiomas:
 
-- 🇺🇸 English: [bitcoin-resources.com](https://bitcoin-resources.com/)
-- 🇩🇪 German: [BitcoinLesestoff.de](https://bitcoinlesestoff.de/)
-- 🇪🇸 Spanish: [recursos-bitcoin.com](https://recursos-bitcoin.com)
+- 🇺🇸 Inglés: [bitcoin-resources.com](https://bitcoin-resources.com/)
+- 🇩🇪 Alemán: [BitcoinLesestoff.de](https://bitcoinlesestoff.de/)
+- 🇪🇸 Español: [recursos-bitcoin.com](https://recursos-bitcoin.com)
 
-Want to translate the site and create your own?
-[Fork it!](https://github.com/bitcoin-resources/bitcoin-resources.github.io)
+¿Quieres traducir el sitio y crear el tuyo propio?
+[¡Haz un fork!](https://github.com/bitcoin-resources/bitcoin-resources.github.io)
 
-## How to Create Your Own
+## Cómo crear el tuyo propio
 
-This project is [free and open-source][license], which means that you can clone
-it and modify it as you wish. It's just a bunch of text in markdown files and a
-bunch of links, so creating a translation is not rocket science. It's mostly
-grunt work.
+Este proyecto es [libre y de código abierto][license], lo que significa que puedes
+clonarlo y modificarlo como desees. Es solo un conjunto de archivos de texto en markdown y un
+puñado de enlaces, por lo que crear una traducción no es nada complicado. Es principalmente
+trabajo manual.
 
 [license]: https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/LICENSE
 
-Here's the gist of it:
+Aquí está lo esencial:
 
-1. [Fork the repo][fork]
-2. Install [Jekyll][jekyll] and [run your fork locally][run]
-3. Translate stuff & link to translations
-4. Optional: get yourself a nice domain
-5. Set up [GitHub pages][gh-pages]
+1. [Haz un fork del repositorio][fork]
+2. Instala [Jekyll][jekyll] y [ejecuta tu fork localmente][run]
+3. Traduce contenido y enlaza a las traducciones
+4. Opcional: consíguete un buen dominio
+5. Configura [GitHub pages][gh-pages]
 
-Of course, you can use other git-centric tools and other Jekyll hosts---you
-don't have to use GitHub or their pages feature.
+Por supuesto, puedes usar otras herramientas basadas en git y otros alojamientos para Jekyll;
+no estás obligado a usar GitHub o su función de páginas.
 
-If you don't know what a fork is, read
-[this](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
+Si no sabes qué es un fork, lee
+[esto](https://docs.github.com/es/get-started/quickstart/fork-a-repo).
 
 [fork]: https://github.com/bitcoin-resources/bitcoin-resources.github.io/fork
 [repo]: https://github.com/bitcoin-resources/bitcoin-resources.github.io

@@ -1,16 +1,16 @@
 ---
 layout: resources
-title: List of All Articles
+title: Lista de todos los artículos
 image: /assets/images/bitcoin-resources-twitter-cover.png
-description: Curated Bitcoin articles.
+description: Selección de artículos de Bitcoin.
 ---
 
-For you CTRL+F freaks.
+Para los fanáticos de CTRL+F.
 
 {% include article-list.html %}
 
 ---
 
-[« back to article index][index]
+[« volver al índice de artículos][index]
 
 [index]: {{ '/articles' | absolute_url }}

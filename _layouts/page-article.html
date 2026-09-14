@@ -6,7 +6,7 @@ layout: default
     <div class="post__header section-padding">
       <div class="grid-small">
         <h1>{{ page.title }}</h1>
-        <h3>by {{ page.author }}</h3>
+        <h3>por {{ page.author }}</h3>
       </div>
     </div>
 
@@ -15,7 +15,7 @@ layout: default
         <div id="markdown">
           <ul class="articles">
             {% include article-item.html article=page %}
-            {% if page.audio %}<li> » 🎧 Audio: <a href="{{ page.audio }}">one</a>{% endif %}{% if page.audio2 %}, <a href="{{ page.audio2 }}">two</a>{% endif %}{% if page.audio3 %}, <a href="{{ page.audio3 }}">three</a></li>{% endif %}
+            {% if page.audio %}<li> » 🎧 Audio: <a href="{{ page.audio }}">uno</a>{% endif %}{% if page.audio2 %}, <a href="{{ page.audio2 }}">dos</a>{% endif %}{% if page.audio3 %}, <a href="{{ page.audio3 }}">tres</a></li>{% endif %}
           </ul>
           {% if page.quote %}
           <hr/>
@@ -25,12 +25,12 @@ layout: default
           <hr/>
           {% endif %}
           <ul class="articles">
-            <li> » 🔗 Archive: <a href="{{ page.archive }}">{{ page.archive }}</a></li>
+            <li> » 🔗 Archivo: <a href="{{ page.archive }}">{{ page.archive }}</a></li>
           </ul>
           <hr/>
           {{content}}
           <p>
-            <a href="{{ '/articles/all' | absolute_url }}">« Back to all articles</a>
+            <a href="{{ '/articles/all' | absolute_url }}">« Volver a todos los artículos</a>
           </p>
         </div>
       </div>

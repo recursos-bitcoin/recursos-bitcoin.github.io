@@ -1,26 +1,26 @@
 ---
 layout: resources
-title: Bitcoin Book Wall
+title: Muro de Libros sobre Bitcoin
 image: /assets/images/bitcoin-resources-twitter-cover.png
-description: Curated Bitcoin books.
+description: Libros selectos sobre Bitcoin.
 ---
 
 {% include books.html %}
 
 ---
 
-## List of All Books
+## Lista de todos los libros
 
-For you CTRL+F freaks.
+Para los fanáticos de CTRL+F.
 
-Also make sure to check out [bitcoiner books](https://www.bitcoinerbooks.com/)
-and [JBP's list of recommended literature](https://www.jordanbpeterson.com/books/#:~:text=RECOMMENDED).
+Asegúrate también de consultar [bitcoiner books](https://www.bitcoinerbooks.com/)
+y la [lista de literatura recomendada de JBP](https://www.jordanbpeterson.com/books/#:~:text=RECOMMENDED).
 
 {% include books-list.html %}
 
 ---
 
-[« back to overview][index]
+[« volver al índice][index]
 
 [index]: {{ '/books' | absolute_url }}
 

@@ -26,27 +26,25 @@ de Henry Hazlitt.
 
 {% include books.html category='essentials' %}
 
-[View all books »][books]
+[Ver todos los libros »][books]
 
-If you prefer a shorter introduction, read and listen to the following:
+Si prefieres una introducción más corta, lee y escucha lo siguiente:
 
 - [La Tesis Alcista de Bitcoin][bullish-case-book] de Vijay Boyapati
-- [The Stories We Tell About Money][aantonop-stories] by Andreas Antonopoulos
+- [The Stories We Tell About Money][aantonop-stories] de Andreas Antonopoulos
 
-Further, everyone who is serious about trying to understand Bitcoin should start
-at the beginning, and read -- or at least skim -- the 8 pages which gave birth
-to Bitcoin:
+Además, cualquiera que se tome en serio entender Bitcoin debería comenzar por el principio y leer --o al menos hojear-- las 8 páginas que dieron origen a Bitcoin:
 
-- [Bitcoin: A Peer-to-Peer Electronic Cash System][bitcoin-whitepaper] by Satoshi Nakamoto
+- [Bitcoin: A Peer-to-Peer Electronic Cash System][bitcoin-whitepaper] de Satoshi Nakamoto
 
-Find answers to common questions in the [FAQ][faq].
+Encuentra respuestas a preguntas frecuentes en las [Preguntas Frecuentes][faq].
 
 [faq]: {{ '/faq' }}
 
 ---
 
 <center>
-  <p><small><a href="#toc">↓ Table of Contents ↓</a></small></p>
+  <p><small><a href="#toc">↓ Tabla de contenidos ↓</a></small></p>
 </center>
 
 [toc]: #toc
@@ -60,56 +58,56 @@ Find answers to common questions in the [FAQ][faq].
 
 ---
 
-## Videos
+## Vídeos
 
 <div class="flex-vid">
   <iframe src="https://www.youtube-nocookie.com/embed/xLYYh4aPXAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[View all videos »][videos]
+[Ver todos los vídeos »][videos]
 
 [videos]: {{ '/videos' | absolute_url }}
 
-## Books
+## Libros
 
-Books about Bitcoin which can be read by anyone, no special background knowledge
-or education required. As mentioned above, [The Bitcoin Standard][the-bitcoin-standard]
-is required reading for anyone interested in Bitcoin.
+Libros sobre Bitcoin que cualquiera puede leer, sin necesidad de conocimientos previos
+ni educación especial. Como se mencionó anteriormente, [El Patrón Bitcoin][the-bitcoin-standard]
+es una lectura obligatoria para cualquiera interesado en Bitcoin.
 
 {% include books.html category='non-technical' above_the_fold=1 %}
 {% include books.html category='non-technical' above_the_fold=2 %}
 
-[View all books »][books]
+[Ver todos los libros »][books]
 
-Categories: [General], [Economics], [Money], [Banking], [Programming], [Cypherpunk], [Fiction], [Kids]
+Categorías: [General], [Economía], [Dinero], [Banca], [Programación], [Cypherpunk], [Ficción], [Infantil]
 
 [General]: {{ '/books/#general-bitcoin-books' | absolute_url }}
-[Economics]: {{ '/books/#economics' | absolute_url }}
-[Money]: {{ '/books/#money' | absolute_url }}
-[Banking]: {{ '/books/#banking' | absolute_url }}
-[Programming]: {{ '/books/#programming' | absolute_url }}
+[Economía]: {{ '/books/#economics' | absolute_url }}
+[Dinero]: {{ '/books/#money' | absolute_url }}
+[Banca]: {{ '/books/#banking' | absolute_url }}
+[Programación]: {{ '/books/#programming' | absolute_url }}
 [Cypherpunk]: {{ '/books/#bitcoin-and-cypherpunk-history' | absolute_url }}
-[Fiction]: {{ '/books/#fiction' | absolute_url }}
-[Kids]: {{ '/books/#bitcoin-books-for-kids' | absolute_url }}
+[Ficción]: {{ '/books/#fiction' | absolute_url }}
+[Infantil]: {{ '/books/#bitcoin-books-for-kids' | absolute_url }}
 
 [books]: {{ '/books' | absolute_url }}
 
 ---
 
-## Articles
+## Artículos
 
-Many amazing articles have been written about Bitcoin. Trying to
-link to all of them is futile. The following is an effort to highlight
-at least some of them. For a more comprehensive list of resources please
-refer to the literature listed at the [Satoshi Nakamoto Institute][sni] and the
-selection of articles read by [Bitcoin Audible][guy-episodes].
+Se han escrito muchos artículos increíbles sobre Bitcoin. Intentar
+enlazarlos todos es inútil. Lo siguiente es un esfuerzo por destacar
+al menos algunos de ellos. Para obtener una lista más completa de recursos,
+consulta la literatura listada en el [Instituto Satoshi Nakamoto][sni] y la
+selección de artículos leídos por [Bitcoin Audible][guy-episodes].
 
-One of the best articles to read if you are new to Bitcoin is [La Tesis Alcista de Bitcoin][bullish-case], which outlines why there are very good reasons to be
-optimistic about Bitcoin's future.
+Uno de los mejores artículos para leer si eres nuevo en Bitcoin es [La Tesis Alcista de Bitcoin][bullish-case], que resume por qué hay muy buenas razones para ser
+optimistas sobre el futuro de Bitcoin.
 
 {% include articles_starred.html %}
 
-[View all articles »][articles]
+[Ver todos los artículos »][articles]
 
 [articles]: {{ '/articles' | absolute_url }}
 
@@ -117,47 +115,45 @@ optimistic about Bitcoin's future.
 
 ## Podcasts
 
-One of the best ways to educate yourself on Bitcoin is by listening to the
-smartest people in the space. Luckily, we are living in the golden age of
-podcasts, and many great conversations are "open source" so to speak.
+Una de las mejores formas de educarte sobre Bitcoin es escuchando a las personas
+más inteligentes del sector. Afortunadamente, vivimos en la era dorada de los podcasts
+y muchas grandes conversaciones son de "código abierto", por así decirlo.
 
-The following podcasts are among the best in the space:
+Los siguientes podcasts se encuentran entre los mejores del sector:
 
 {% include podcasts.html tier="1" %}
 
-[View selected podcast episodes »][selected-episodes] \\
-[View all podcasts »][podcasts]
+[Ver episodios seleccionados de podcasts »][selected-episodes] \\
+[Ver todos los podcasts »][podcasts]
 
-### Selected Podcast Episodes
+### Episodios de podcast seleccionados
 
-You can find a list of selected podcast episodes [here][selected-episodes].
+Puedes encontrar una lista de episodios seleccionados de podcasts [aquí][selected-episodes].
 
 [podcasts]: {{ '/podcasts' | absolute_url }}
 [selected-episodes]: {{ '/podcasts#selected-podcast-episodes' | absolute_url }}
 
 ---
 
-## Further Resources
+## Otros recursos
 
-The more rabbit holes, the better! Don't rely on this resource page alone. There
-are many excellent curations and guides by other bitcoiners, such as:
+¡Cuantas más madrigueras de conejo, mejor! No te fíes únicamente de esta página de recursos. Existen
+muchas listas y guías excelentes creadas por otros bitcoiners, como:
 
 {% include curations_starred.html %}
 
-[More Resources »][further-resources]
+[Más recursos »][further-resources]
 
 [further-resources]: {{ '/further-resources' | absolute_url }}
 
 ---
 
-## About these Resources
+## Acerca de estos recursos
 
-The resources listed above are but a small selection which was particularly
-influential in [my thinking][dergigi]. A sincere *thank you* to all the people
-who shared their thoughts and insights, past and present. I have learned so
-much, and for that, I will be eternally grateful.
+Los recursos listados anteriormente son solo una pequeña selección que influyó especialmente
+en [mi forma de pensar][dergigi]. Un sincero *gracias* a todas las personas que compartieron
+sus pensamientos e ideas, pasados y presentes. He aprendido muchísimo y por ello estaré eternamente agradecido.
 
-If you have suggestions for content or improvements, feel free to open issues
-or PRs on [GitHub][issues] or reach out to me.
+Si tienes sugerencias de contenido o mejoras, no dudes en abrir incidencias o PRs en [GitHub][issues] o contactar conmigo.
 
 {% include bibliography.md %}

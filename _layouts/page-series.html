@@ -6,7 +6,7 @@ layout: default
     <div class="post__header section-padding">
       <div class="grid-small">
         <h1>{{ page.title }}</h1>
-        <h3>by <a href="{{ page.authorurl }}">{{ page.author }}</a></h3>
+        <h3>por <a href="{{ page.authorurl }}">{{ page.author }}</a></h3>
       </div>
     </div>
 
@@ -16,17 +16,17 @@ layout: default
           {% include series.html series=page.title %}
           <hr/>
           <p>
-          Originally published in <a href="{{ page.landing }}">{{ page.date | date: '%Y' }}</a>
+          Publicado originalmente en <a href="{{ page.landing }}">{{ page.date | date: '%Y' }}</a>
           {% if page.mirror or page.archive %}
             (
             {% if page.mirror %}
-            <a href="{{ page.mirror }}">Mirror</a>
+            <a href="{{ page.mirror }}">Espejo</a>
             {% endif %}
             {% if page.mirror and page.archive %}
             ,
             {% endif %}
             {% if page.archive %}
-            <a href="{{ page.archive }}">Archive</a>
+            <a href="{{ page.archive }}">Archivo</a>
             {% endif %}
             )
           {% endif %}
@@ -34,7 +34,7 @@ layout: default
           <hr/>
           {{content}}
           <p>
-            <a href="{{ '/articles#article-series' | absolute_url }}">« Back to article series</a>
+            <a href="{{ '/articles#article-series' | absolute_url }}">« Volver a las series de artículos</a>
           </p>
         </div>
       </div>

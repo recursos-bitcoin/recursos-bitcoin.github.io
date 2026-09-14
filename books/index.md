@@ -1,21 +1,21 @@
 ---
 layout: resources
-title: Bitcoin Books
+title: Libros sobre Bitcoin
 image: /assets/images/bitcoin-resources-twitter-cover.png
-description: Curated Bitcoin books.
+description: Libros selectos sobre Bitcoin.
 ---
 
-The following is an incomplete list of Bitcoin books worth reading. Some of the
-books listed below were discussed at the [Bitcoiner Book
+La siguiente es una lista incompleta de libros sobre Bitcoin que vale la pena leer. Algunos de los
+libros listados a continuación fueron discutidos en el [Bitcoiner Book
 Club](https://www.youtube.com/playlist?list=PL8GxRkxnvMl3_O3DYNQJFnVBvvt8A9qqW)
-organized by John Vallis.
+organizado por John Vallis.
 
-Jump to the [table of contents](#toc) to get an overview of the various sections.
+Dirígete a la [tabla de contenidos](#toc) para obtener un resumen de las distintas secciones.
 
 ---
 
 <center>
-  <p><small><a href="#toc">↓ Table of Contents ↓</a></small></p>
+  <p><small><a href="#toc">↓ Tabla de contenidos ↓</a></small></p>
 </center>
 
 ---
@@ -38,28 +38,28 @@ Jump to the [table of contents](#toc) to get an overview of the various sections
 {% endif %}
 
 
-[View all books in {{ cat.title }} »]({{ cat.url }})
+[Ver todos los libros en {{ cat.title }} »]({{ cat.url }})
 
 {% endfor %}
 
 ---
 
-## List of All Books
+## Lista de todos los libros
 
-For you CTRL+F freaks.
+Para los fanáticos de CTRL+F.
 
-Also make sure to check out [bitcoiner books](https://www.bitcoinerbooks.com/)
-and [JBP's list of great books](https://www.jordanbpeterson.com/great-books/).
+Asegúrate también de consultar [bitcoiner books](https://www.bitcoinerbooks.com/)
+y la [lista de grandes libros de JBP](https://www.jordanbpeterson.com/great-books/).
 
 {% include books-list.html %}
 
-[View book wall »][books-wall]
+[Ver muro de libros »][books-wall]
 
 [books-wall]: {{ '/books/wall' | absolute_url }}
 
 ---
 
-[« back to overview][index]
+[« volver al índice][index]
 
 [index]: {{ '/books' | absolute_url }}
 

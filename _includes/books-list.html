@@ -8,7 +8,7 @@
   {{ book.authors[i] }}{% if i != author_count %}, {% else %}{% endif %}
   {% endfor %}
   {% endcapture %}
-  <li><a href="{{ book.url }}">{{ book.title }}</a> by {{ authors }}</li>
+  <li><a href="{{ book.url }}">{{ book.title }}</a> por {{ authors }}</li>
 {% endif %}
 {% endfor %}
 </ul>
