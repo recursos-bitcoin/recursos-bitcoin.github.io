@@ -1,6 +1,6 @@
 ---
 layout: page-category
-title: Money
+title: Dinero
 short: money
 order: 5
 ---

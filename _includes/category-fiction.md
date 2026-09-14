@@ -1,10 +1,10 @@
-While truth is often stranger than fiction, many fictional works exist that are
-not only important to make sense of the world, but essential to navigate what
-lies ahead and what role Bitcoin will play in particular.
+Si bien la realidad suele ser más extraña que la ficción, existen muchas obras de ficción que no
+solo son importantes para dar sentido al mundo, sino esenciales para navegar lo que se avecina y qué
+papel desempeñará Bitcoin en particular.
 
-> Fiction is Truth's elder sister. Obviously. No one in the world knew what
-> truth was till some one had told a story.
+> La ficción es la hermana mayor de la Verdad. Obviamente. Nadie en el mundo sabía lo que
+> era la verdad hasta que alguien contó una historia.
 >
 > <cite>Rudyard Kipling</cite>
 
-The following books are recommended often:
+Los siguientes libros se recomiendan a menudo:

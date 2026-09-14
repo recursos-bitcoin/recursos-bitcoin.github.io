@@ -18,5 +18,5 @@ quote: "The root problem with conventional currency is all the trust that’s re
 audio_url: https://amzn.to/2QZfJR4
 free_audio_url: 
 goodreads_url: https://www.goodreads.com/book/show/22619661-the-book-of-satoshi
-description: "The Book of Satoshi provides a convenient way to parse through what Bitcoin's creator wrote over the span of the two years that constituted his 'public life' before he disappeared from the Internet. Nakamoto's true identity may never be known. Therefore the writings reproduced here are probably all the world will ever hear from him concerning Bitcoin's creation, workings, and theoretical basis. Want to learn more about Bitcoin? Go directly to the source-the writings of the creator himself, Satoshi Nakamoto!"
+description: "The Book of Satoshi proporciona una forma conveniente de analizar lo que el creador de Bitcoin escribió a lo largo de los dos años que constituyeron su 'vida pública' antes de desaparecer de Internet. Es posible que nunca se conozca la verdadera identidad de Nakamoto. Por lo tanto, los escritos reproducidos aquí son probablemente todo lo que el mundo escuchará de él con respecto a la creación, funcionamiento y base teórica de Bitcoin. ¿Quieres saber más sobre Bitcoin? Ve directamente a la fuente: ¡los escritos del propio creador, Satoshi Nakamoto!"
 ---

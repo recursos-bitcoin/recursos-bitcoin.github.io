@@ -1,6 +1,6 @@
 ---
 layout: page-category
-title: Fiction
+title: Ficción
 short: fiction
 order: 11
 ---

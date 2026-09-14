@@ -1,11 +1,10 @@
-Bitcoin is capable of being the new base layer of our economy, which is why
-understanding economics is essential in understanding Bitcoin. Bitcoin's
-monetary policy is aligned with the Austrian School of economic thought, which
-is why reading the works of Austrian's such as Hayek, Hazlitt, Hoppe, Menger,
-Mises, Rothbard (and others) is recommended by those who take Bitcoin's value
-proposition seriously.
+Bitcoin es capaz de ser la nueva capa base de nuestra economía, por lo que comprender la
+economía es esencial para comprender Bitcoin. La política monetaria de Bitcoin está alineada con la
+Escuela Austríaca de pensamiento económico, por lo que se recomienda la lectura de las obras de
+austríacos como Hayek, Hazlitt, Hoppe, Menger, Mises, Rothbard (y otros) a quienes se toman en serio
+la propuesta de valor de Bitcoin.
 
-Human Action, Mises' magnum opus, is [freely available][human-action-free] as
-both an ebook and an audiobook.
+La acción humana, la obra cumbre de Mises, está [disponible gratuitamente][human-action-free]
+tanto en libro electrónico como en audiolibro.
 
 [human-action-free]: https://mises.org/library/human-action-0

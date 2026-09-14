@@ -18,5 +18,5 @@ quote: "Save most of your money for things that are important. Spend the majorit
 audio_url: 
 free_audio_url: 
 goodreads_url: https://www.goodreads.com/book/show/63328908-el-dinero
-description: "What is money? How was it made? How has it changed? How is it created and by who? What gives money value? Is there anything that’s more precious? This Illustrated Book is about all these questions, to explain even to the youngest the History of Money, from its origins to our time, with fun 5 minutes of reading."
+description: "¿Qué es el dinero? ¿Cómo se creó? ¿Cómo ha cambiado? ¿Cómo se crea y por quién? ¿Qué le da valor al dinero? ¿Hay algo que sea más valioso? Este libro ilustrado trata sobre todas estas preguntas, para explicar incluso a los más jóvenes la historia del dinero, desde sus orígenes hasta nuestros días, con lecturas entretenidas de 5 minutos."
 ---

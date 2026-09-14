@@ -1,6 +1,6 @@
 ---
 layout: page-category
-title: Inflation
+title: Inflación
 short: inflation
 order: 6
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page-category
-title: Software and Programming
+title: Software y Programación
 short: software
 order: 12
 ---

@@ -1,7 +1,7 @@
-The Internet of Money books are a collection of talks by Andreas Antonopoulos,
-most of which are available for [free on YouTube][aantonop-bitcoin-talks]. The
-Book Of Satoshi is a collection of Satoshi Nakamoto's writings, which are
-available for free at the [Satoshi Nakamoto Institute][complete-satoshi].
+Los libros de The Internet of Money son una colección de charlas de Andreas Antonopoulos,
+la mayoría de las cuales están disponibles de forma [gratuita en YouTube][aantonop-bitcoin-talks]. El
+Book of Satoshi es una colección de los escritos de Satoshi Nakamoto, que están
+disponibles de forma gratuita en el [Instituto Satoshi Nakamoto][complete-satoshi].
 
 [bitcoin-money]: {{ '/books/bitcoin-money' | absolute_url }}
 [aantonop-bitcoin-talks]: https://www.youtube.com/playlist?list=PLPQwGV1aLnTthcG265_FYSaV24hFScvC0

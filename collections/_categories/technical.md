@@ -1,6 +1,6 @@
 ---
 layout: page-category
-title: Bitcoin Programming
+title: Programación de Bitcoin
 short: technical
 order: 3
 ---

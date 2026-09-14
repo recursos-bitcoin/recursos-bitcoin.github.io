@@ -1,12 +1,12 @@
 
-Bitcoin is an empowering, freedom-enabling technology. It allows individuals to
-become self-sovereign in matters of money and finance, just like other
-information technologies enable self-sovereignty in matters of information and
-communication. What this implies, and how the world might change because of it,
-is the scope of [The Sovereign Individual].
+Bitcoin es una tecnología empoderadora que permite la libertad. Permite a las personas
+convertirse en soberanas en cuestiones de dinero y finanzas, al igual que otras
+tecnologías de la información permiten la soberanía en cuestiones de información y
+comunicación. Lo que esto implica y cómo el mundo podría cambiar debido a ello es el
+alcance de [The Sovereign Individual].
 
-We are currently living through the fourth great shift, moving from an
-industrial to an information-based society. There is no better book to
-understand this shift than the one by Davidson and Rees-Mogg.
+Actualmente estamos viviendo la cuarta gran transición, pasando de una sociedad
+industrial a una basada en la información. No hay mejor libro para
+entender esta transición que el de Davidson y Rees-Mogg.
 
 [The Sovereign Individual]: {{ '/books/the-sovereign-individual' | absolute_url }}

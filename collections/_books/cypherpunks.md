@@ -18,5 +18,5 @@ quote: "In this way, people can oppose their will to that of a fully mobilized s
 audio_url: https://amzn.to/3xNVw3L
 free_audio_url: 
 goodreads_url: 
-description: "Cryptography is the ultimate form of non-violent direct action. While nuclear weapons states can exert unlimited violence over even millions of individuals, strong cryptography means that a state, even by exercising unlimited violence, cannot violate the intent of individuals to keep secrets from them."
+description: "La criptografía es la forma definitiva de acción directa no violenta. Mientras que los Estados con armas nucleares pueden ejercer una violencia ilimitada incluso sobre millones de individuos, la criptografía fuerte significa que un Estado, aun ejerciendo una violencia ilimitada, no puede violar la intención de los individuos de mantener sus secretos a salvo de ellos."
 ---

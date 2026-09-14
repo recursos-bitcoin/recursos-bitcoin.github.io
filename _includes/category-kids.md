@@ -1,2 +1,2 @@
-When compared to the fiat system, kids have an easy time understanding
-Bitcoin. It might be novel, but it is neither deliberately confusing nor boring.
+En comparación con el sistema fiduciario, los niños lo tienen fácil para entender
+Bitcoin. Puede ser novedoso, pero no es ni deliberadamente confuso ni aburrido.

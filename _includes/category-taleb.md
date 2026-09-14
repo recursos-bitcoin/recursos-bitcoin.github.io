@@ -1,12 +1,12 @@
 
-Highly improbable events, such as the invention of Bitcoin, are almost
-impossible to predict. However, Nassim Taleb wrote multiple
-books on concepts that help to foster a solid understanding of Bitcoin. In
-short, the invention of Bitcoin is a *Black Swan* event resulting in an
-*antifragile* organism. Miners are *"fooled by randomness"* to keep it alive,
-and participation requires *skin in the game*. Unfortunately, Taleb [fails to
-appreciate][fragile-nassim] the beauty of Bitcoin and
-currently suffers from [Bitcoin Derangement Syndrome][BDS].
+Los eventos altamente improbables, como la invención de Bitcoin, son casi
+imposibles de predecir. Sin embargo, Nassim Taleb escribió múltiples
+libros sobre conceptos que ayudan a fomentar una comprensión sólida de Bitcoin. En
+resumen, la invención de Bitcoin es un evento de *Cisne Negro* que resulta en un
+organismo *antifrágil*. Los mineros son *"engañados por el azar"* para mantenerlo vivo,
+y la participación requiere *jugarse la piel*. Desafortunadamente, Taleb [no logra
+apreciar][fragile-nassim] la belleza de Bitcoin y actualmente sufre del
+[Síndrome de Trastorno por Bitcoin][BDS].
 
 [fragile-nassim]: https://twitter.com/saifedean/status/1382408549343580161?s=20
 [BDS]: https://allenfarrington.medium.com/a-tale-of-two-talebs-1775dff3302b

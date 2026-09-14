@@ -1,6 +1,6 @@
 ---
 layout: page-category
-title: Work
+title: Trabajo
 short: work
 order: 16
 ---

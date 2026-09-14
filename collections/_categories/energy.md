@@ -1,6 +1,6 @@
 ---
 layout: page-category
-title: Energy
+title: Energía
 short: energy
 order: 9
 ---

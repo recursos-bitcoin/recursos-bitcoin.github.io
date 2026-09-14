@@ -1,6 +1,6 @@
 ---
 layout: page-category
-title: Computation and Complexity Theory
+title: Computación y Teoría de la Complejidad
 short: computation
 order: 13
 ---

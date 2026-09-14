@@ -18,5 +18,5 @@ quote: ""
 audio_url: 
 free_audio_url: 
 goodreads_url: https://www.goodreads.com/book/show/65649756-rhyming-bitcoin
-description: "Rhyming Bitcoin is meant to gently ease newcomers down the rabbit hole in a fun way reminiscent of Dr. Seuss and Alice in Wonderland."
+description: "Rhyming Bitcoin tiene como objetivo facilitar suavemente la llegada de los principiantes a la madriguera del conejo de una manera divertida que recuerda a Dr. Seuss y Alicia en el país de las maravillas."
 ---

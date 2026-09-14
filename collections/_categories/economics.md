@@ -1,6 +1,6 @@
 ---
 layout: page-category
-title: Economics
+title: Economía
 short: economics
 order: 4
 ---

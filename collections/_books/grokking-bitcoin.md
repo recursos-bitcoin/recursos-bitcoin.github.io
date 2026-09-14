@@ -18,5 +18,5 @@ quote: ""
 audio_url: 
 free_audio_url: 
 goodreads_url: 
-description: "If you think Bitcoin is just an alternative currency for geeks, it's time to think again. Grokking Bitcoin opens up this powerful distributed ledger system, exploring the technology that enables applications both for Bitcoin-based financial transactions and using the blockchain for registering physical property ownership. With this fully illustrated, easy-to-read guide, you'll finally understand how Bitcoin works, how you can use it, and why you can trust the blockchain."
+description: "Si crees que Bitcoin es solo una moneda alternativa para apasionados de la tecnología, es hora de pensarlo de nuevo. Grokking Bitcoin desglosa este potente sistema de libro mayor distribuido, explorando la tecnología que permite aplicaciones tanto para transacciones financieras basadas en Bitcoin como para el uso de la cadena de bloques en el registro de propiedades físicas. Con esta guía totalmente ilustrada y fácil de leer, por fin entenderás cómo funciona Bitcoin, cómo puedes usarlo y por qué puedes confiar en la cadena de bloques."
 ---

@@ -18,5 +18,5 @@ quote: "put the main timechain first"
 audio_url: 
 free_audio_url: 
 goodreads_url: 
-description: "The original Bitcoin source code, written by Satoshi Nakamoto and first released in 2009. Color coded and numbered lines for ease of reference."
+description: "El código fuente original de Bitcoin, escrito por Satoshi Nakamoto y lanzado por primera vez en 2009. Líneas codificadas por colores y numeradas para facilitar su consulta."
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page-category
-title: Morality
+title: Moralidad
 short: morality
 order: 8
 ---

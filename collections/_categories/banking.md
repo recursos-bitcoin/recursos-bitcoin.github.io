@@ -1,6 +1,6 @@
 ---
 layout: page-category
-title: Banking
+title: Banca
 short: banking
 order: 7
 ---

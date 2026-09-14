@@ -1,6 +1,6 @@
-In stark contrast to our current economic system, Bitcoin does not offer the
-possibility of inflating the monetary base. Understanding money - and especially
-*sound* money - is paramount to understanding the value proposition and ultimate
-impact of Bitcoin.
+En marcado contraste con nuestro sistema económico actual, Bitcoin no ofrece la
+posibilidad de inflar la base monetaria. Entender el dinero, y especialmente
+el dinero *duro*, es fundamental para comprender la propuesta de valor y el impacto
+final de Bitcoin.
 
-Most of the older books are available for free at the Mises Institute.
+La mayoría de los libros más antiguos están disponibles de forma gratuita en el Instituto Mises.

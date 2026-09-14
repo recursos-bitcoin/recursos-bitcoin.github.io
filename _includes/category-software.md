@@ -1,5 +1,5 @@
-Bitcoin is free, libre open-source software. It is free as in freedom, free as
-in free speech. What this means, why free software exists, and what the
-implications of free (vs proprietary) software are, is important to understand
-the unstoppability of Bitcoin. I would argue that the ethos of GNU and UNIX
-programming are important cornerstones for Bitcoin as well.
+Bitcoin es software libre y de código abierto. Es libre como en libertad, libre como
+en libertad de expresión. Lo que esto significa, por qué existe el software libre y cuáles son las
+implicaciones del software libre (frente al privativo), es importante para entender
+la naturaleza imparable de Bitcoin. Sostendría que el espíritu de programación de GNU y UNIX
+también son pilares fundamentales para Bitcoin.

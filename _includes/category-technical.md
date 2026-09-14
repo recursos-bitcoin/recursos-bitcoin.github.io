@@ -1,8 +1,8 @@
-If you would like to dig deeper or get your hands dirty with programming, these
-books are for you. Technical knowledge and skills in computer science,
-programming, and/or mathematics are beneficial.
+Si deseas profundizar más o ensuciarte las manos con la programación, estos
+libros son para ti. Los conocimientos y habilidades técnicas en informática,
+programación y/o matemáticas son beneficiosos.
 
-Most of these books are open-source and thus available for free on GitHub.
+La mayoría de estos libros son de código abierto y, por lo tanto, están disponibles de forma gratuita en GitHub.
 
 [mastering-bitcoin-free]: https://github.com/bitcoinbook/bitcoinbook
 [programming-bitcoin-exercises]: https://github.com/jimmysong/programmingbitcoin

@@ -1,7 +1,7 @@
-Bitcoin [requires electricity][faq-energy] to secure itself publicly[^reify] and trustlessly.
-If you want to understand this part of Bitcoin and the implications a "buyer of
-last resort" for energy brings with it, understanding energy markets, energy
-storage, energy transmission, and energy generation is not optional.
+Bitcoin [requiere electricidad][faq-energy] para protegerse públicamente[^reify] y sin necesidad de confianza.
+Si deseas comprender esta parte de Bitcoin y las implicaciones que trae consigo un "comprador de
+último recurso" para la energía, comprender los mercados energéticos, el almacenamiento de energía,
+la transmisión de energía y la generación de energía no es opcional.
 
 [faq-energy]: {{ 'faq/#is-bitcoin-bad-for-the-environment' | absolute_url }}
-[^reify]: Proof-of-work is responsible for the [reification of information](https://dergigi.com/2022/04/03/inalienable-property-rights/#reify), one of the most profound and important properties of Bitcoin.
+[^reify]: La prueba de trabajo es responsable de la [reificación de la información](https://dergigi.com/2022/04/03/inalienable-property-rights/#reify), una de las propiedades más profundas e importantes de Bitcoin.

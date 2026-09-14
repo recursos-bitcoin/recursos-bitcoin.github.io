@@ -1,6 +1,6 @@
 ---
 layout: page-category
-title: Bitcoin Books for Kids
+title: Libros de Bitcoin para Niños
 short: kids
 order: 2
 ---

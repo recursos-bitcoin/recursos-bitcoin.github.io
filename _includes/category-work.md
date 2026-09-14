@@ -1,7 +1,7 @@
-Decentralized networks like Bitcoin, and the internet before it, change the way
-people interact and work with each other. People who work on or create content
-for Bitcoin are located all over the world, thus regular approaches to work
-might not produce the best results. I found the following books to hit a certain
-nerve, speaking as someone who has stepped outside of the regular way of working
-on things. If you think about working on Bitcoin or other open-source projects,
-these books are for you.
+Las redes descentralizadas como Bitcoin, e internet antes de ella, cambian la forma en que
+las personas interactúan y trabajan entre sí. Las personas que trabajan en Bitcoin o crean contenido
+para él se encuentran en todo el mundo, por lo que los enfoques habituales de trabajo
+pueden no producir los mejores resultados. Encontré que los siguientes libros tocaban cierta
+fibra sensible, hablando como alguien que se ha salido de la forma habitual de trabajar
+en las cosas. Si estás pensando en trabajar en Bitcoin u otros proyectos de código abierto,
+estos libros son para ti.

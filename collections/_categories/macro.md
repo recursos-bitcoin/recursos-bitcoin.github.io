@@ -1,6 +1,6 @@
 ---
 layout: page-category
-title: The Big Picture
+title: El Panorama General
 short: macro
 order: 10
 ---

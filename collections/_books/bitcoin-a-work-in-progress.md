@@ -18,7 +18,7 @@ quote: "They say Bitcoin is old and boring, but nothing could be further from th
 audio_url: 
 free_audio_url: 
 goodreads_url: https://www.goodreads.com/book/show/60980293-bitcoin
-description: "This book will guide you through the latest developments in Bitcoin, as seen through the eyes of one of its many developers. You'll learn about the latest soft fork known as Taproot, the challenges of keeping open source software free of money-stealing bugs and malware, new ways to protect nodes against evildoers on the internet, how to deal with the ever-growing blockchain, and more!
+description: "Este libro te guiará a través de los últimos desarrollos en Bitcoin, vistos a través de los ojos de uno de sus muchos desarrolladores. Aprenderás sobre el último soft fork conocido como Taproot, los desafíos de mantener el software de código abierto libre de fallos y malware que roban dinero, nuevas formas de proteger los nodos contra los malhechores en internet, cómo lidiar con la cadena de bloques en constante crecimiento, ¡y más!
 
-Each chapter links to a corresponding episode of the Bitcoin Explained podcast. The book also links to more than two hundred articles, videos, podcasts, and even the source code. And thanks to a tiny QR code next to every link, you'll never have to type long URLs."
+Cada capítulo enlaza a un episodio correspondiente del podcast Bitcoin Explained. El libro también enlaza a más de doscientos artículos, videos, podcasts e incluso al código fuente. Y gracias a un pequeño código QR junto a cada enlace, nunca tendrás que escribir URLs largas."
 ---

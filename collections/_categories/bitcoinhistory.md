@@ -1,6 +1,6 @@
 ---
 layout: page-category
-title: Bitcoin and Cypherpunk History
+title: Historia de Bitcoin y Cypherpunk
 short: bitcoin-history
 order: 1
 ---

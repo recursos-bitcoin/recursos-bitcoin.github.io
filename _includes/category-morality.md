@@ -1,9 +1,9 @@
-Good money is a moral issue. Free speech and sound money are paramount for a
-free and flourishing society. Read these books to understand why.
+El buen dinero es una cuestión moral. La libertad de expresión y el dinero duro son primordiales para una
+sociedad libre y próspera. Lee estos libros para entender por qué.
 
-[Moral questions][speech] are at the root of it all: Who should be allowed to
-speak? Who should be allowed to publish? Who should be allowed to have property?
-Who should be allowed to defend said property? Who should be allowed to issue
-and control the money?
+[Las cuestiones morales][speech] están en la raíz de todo: ¿A quién se le debería permitir
+hablar? ¿A quién se le debería permitir publicar? ¿A quién se le debería permitir tener propiedad?
+¿A quién se le debería permitir defender dicha propiedad? ¿A quién se le debería permitir emitir
+y controlar el dinero?
 
 [speech]: https://dergigi.com/speech

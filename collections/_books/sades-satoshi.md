@@ -18,5 +18,5 @@ quote: "This new amazing money technology is changing lives of people in Nigeria
 audio_url: 
 free_audio_url: 
 goodreads_url: https://www.goodreads.com/book/show/62220169-sade-s-satoshis
-description: "This book gives children a look at Bitcoin through a global lens and explores the incredible impact of Bitcoin in Nigeria. It also teaches children about important economic concepts like central banking, inflation and fiat currency. "
+description: "Este libro les ofrece a los niños una visión de Bitcoin desde una perspectiva global y explora el increíble impacto de Bitcoin en Nigeria. También les enseña conceptos económicos importantes como la banca central, la inflación y la moneda fiduciaria."
 ---

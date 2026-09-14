@@ -1,6 +1,6 @@
 ---
 layout: page-category
-title: General Bitcoin Books
+title: Libros Generales sobre Bitcoin
 short: non-technical
 order: 0
 ---

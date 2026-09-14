@@ -1,6 +1,6 @@
 ---
 layout: page-category
-title: The Internet of Money
+title: El Internet del Dinero
 short: aantonop
 order: 14
 ---
