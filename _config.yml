@@ -11,10 +11,12 @@ description: >
 url: https://recursos-bitcoin.com
 code: BR
 twitter_username: dergigi
+twitter_site: BtcResources
 default_img: /assets/images/avatar.png
 social:
-  - name: twitter
-    url: https://twitter.com/BtcResources
+  - name: nostr
+    url: https://njump.to/npub1ressrcmqgvqz3xuxdtamxmmv9ve6rxcf99fd694s6hutntfvcmdqvn56zk
+    icon: feather
   - name: github
     url: https://github.com/recursos-bitcoin/recursos-bitcoin.github.io
   - name: bitcoin
@@ -63,6 +65,7 @@ compress_html:
   clippings: all
   comments: all
   startings: [html, head, body]
+include: [".well-known"]
 exclude:
   - env
   - scripts
